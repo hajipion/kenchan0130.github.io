@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>kenchan0130 blog</title>
-    <description>Web エンジニア。記録に残したいことを雑に備忘するブログ。
+    <description>Web エンジニア。記録に残したいことを雑に備忘するブログ。 投稿内容は個人の見解であり所属する組織の公式見解ではありません。
 </description>
     <link>https://kenchan0130.github.io/</link>
     <atom:link href="https://kenchan0130.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Nov 2017 22:51:10 +0900</pubDate>
-    <lastBuildDate>Wed, 29 Nov 2017 22:51:10 +0900</lastBuildDate>
+    <pubDate>Sat, 02 Dec 2017 17:15:04 +0900</pubDate>
+    <lastBuildDate>Sat, 02 Dec 2017 17:15:04 +0900</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
   </channel>
